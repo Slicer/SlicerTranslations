@@ -150,67 +150,67 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique a la aplicación que actualice esta extensión al reiniciar.</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="70"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="77"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique a la aplicación que conserve la versión instalada actualmente de esta extensión.</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="80"/>
         <source>Cancel Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar la actualización</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="105"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique a la aplicación que cargue esta extensión añadiendo todas las rutas de módulo asociadas a la configuración de la aplicación.</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="108"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="115"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique a la aplicación que omita la carga de esta extensión eliminando todas las rutas de módulo asociadas de la configuración de la aplicación.</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="118"/>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="142"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique a la aplicación que desinstale esta extensión cuando se reinicie.</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="145"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="152"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique a la aplicación que mantenga esta extensión instalada.</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsButtonBox.ui" line="155"/>
         <source>Cancel Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar la desinstalación</translation>
     </message>
 </context>
 <context>
@@ -312,17 +312,17 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     <message>
         <location filename="../UI/qSlicerExtensionsToolsWidget.ui" line="151"/>
         <source>&amp;Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Compruebar las actualizaciones</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsToolsWidget.ui" line="159"/>
         <source>Install Updates &amp;Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar actualizaciones &amp;automáticamente</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerExtensionsToolsWidget.ui" line="164"/>
         <source>&amp;Install Extension from File...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instalar Extension desde archivo...</translation>
     </message>
 </context>
 <context>
@@ -330,12 +330,12 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     <message>
         <location filename="../../qSlicerIOManager.cxx" line="311"/>
         <source>Select a reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar un lector</translation>
     </message>
     <message>
         <location filename="../../qSlicerIOManager.cxx" line="312"/>
         <source>Select a reader to use for your data?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Seleccionar un lector para sus datos?</translation>
     </message>
 </context>
 <context>
@@ -343,22 +343,22 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     <message>
         <location filename="../UI/qSlicerModelsDialog.ui" line="14"/>
         <source>Add a 3D model</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir un modelo 3D</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerModelsDialog.ui" line="26"/>
         <source>Add Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir fichero(s) de modelo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerModelsDialog.ui" line="48"/>
         <source>Add Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir el directorio de los modelos</translation>
     </message>
     <message>
         <location filename="../../qSlicerModelsDialog.cxx" line="113"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos</translation>
     </message>
 </context>
 <context>
@@ -496,12 +496,12 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     <message>
         <location filename="../UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
         <source>Node Writer Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de Escritor de Nodos</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimir</translation>
     </message>
 </context>
 <context>
@@ -509,72 +509,72 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar escenas y datos no guardados</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar sólo la escena y los datos modificados</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del archivo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="59"/>
         <source>File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de archivo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="64"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="69"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="74"/>
         <source>Node Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del nodo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="79"/>
         <source>Node Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo del nodo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="84"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="102"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar el directorio de los archivos seleccionados</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="115"/>
         <source>select modified data only</source>
-        <translation type="unfinished"></translation>
+        <translation>seleccionar sólo datos modificados</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="135"/>
         <source>Show options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar opciones</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSaveDataDialog.ui" line="142"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un Paquete de Expedientes Médicos que contenga la escena</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="1397"/>
         <source>Any Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Cualquier dato</translation>
     </message>
 </context>
 <context>
@@ -585,52 +585,54 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
         <location filename="../../qSlicerSaveDataDialog.cxx" line="1201"/>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="1208"/>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificado</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="651"/>
         <source>Not Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>No Modificado</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="854"/>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="869"/>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="911"/>
         <source>Saving node...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar nodo...</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="855"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo %1 no guardado, el nombre del archivo está vacío.</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="870"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo: %1 ya existe. ¿Quieres reemplazarlo?</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="912"/>
         <source>Cannot write data file: %1.
 Do you want to continue saving?</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escribir un archivo de datos: %1.
+¿Quieres seguir guardando?</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="945"/>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="1188"/>
         <source>Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Escena</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="1161"/>
         <source>Saving scene...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar escena...</translation>
     </message>
     <message>
         <location filename="../../qSlicerSaveDataDialog.cxx" line="1162"/>
         <source>Cannot write scene file: %1.
 Do you want to ignore this error and close saving?</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escribir un archivo de escena: %1.
+¿Desea ignorar este error y cerrar la grabación?</translation>
     </message>
 </context>
 <context>
@@ -804,67 +806,67 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio donde se guardan las escenas por defecto</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación predeterminada de la escena:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar la pantalla de inicio:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
         <source>Confirm on restart:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar al reiniciar:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar a la salida:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar al cerrar la escena:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
         <source>Slicer Wiki URL:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="131"/>
         <source>Max. number of &apos;Recently Loaded&apos; menu items:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de elementos de menú &quot;Cargados recientemente&quot;:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="138"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished"></translation>
+        <translation>Script de Python que se ejecuta después de iniciar la aplicación</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="141"/>
         <source>Application startup script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Script de inicio de la aplicación:</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsGeneralPanel.ui" line="163"/>
         <source>Open Slicer resource file</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el archivo de recursos de Slicer</translation>
     </message>
 </context>
 <context>

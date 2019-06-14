@@ -2,86 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="es_ES">
 <context>
-    <name>QObject</name>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="209"/>
-        <source>Select a </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="267"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="416"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="1002"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="1005"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="1224"/>
-        <source>Rename current </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="271"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="411"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="976"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="979"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="1222"/>
-        <source>Edit current </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="278"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="281"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="391"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="393"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="422"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="425"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="924"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="927"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="1218"/>
-        <source>Create new </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="287"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="406"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="950"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="953"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="1220"/>
-        <source>Delete current </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="391"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="422"/>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="425"/>
-        <source> as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="572"/>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLNodeComboBox.cxx" line="575"/>
-        <source>node</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLCaptureToolBar.cxx" line="122"/>
-        <source>Restore or delete saved scene views.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLCaptureToolBar.cxx" line="177"/>
-        <source>SceneView Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../qMRMLCaptureToolBar.cxx" line="178"/>
-        <source>SceneView Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>qMRMLCaptureToolBar</name>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="102"/>
@@ -106,6 +26,21 @@
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="120"/>
         <source>Restore view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLCaptureToolBar.cxx" line="122"/>
+        <source>Restore or delete saved scene views.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLCaptureToolBar.cxx" line="177"/>
+        <source>SceneView Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLCaptureToolBar.cxx" line="178"/>
+        <source>SceneView Name:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -662,6 +597,68 @@
     <message>
         <location filename="../../qMRMLNodeComboBox.cxx" line="58"/>
         <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="209"/>
+        <source>Select a </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="267"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="416"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="1002"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="1005"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="1224"/>
+        <source>Rename current </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="271"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="411"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="976"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="979"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="1222"/>
+        <source>Edit current </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="278"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="281"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="391"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="393"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="422"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="425"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="924"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="927"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="1218"/>
+        <source>Create new </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="287"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="406"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="950"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="953"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="1220"/>
+        <source>Delete current </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="391"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="422"/>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="425"/>
+        <source> as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="572"/>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLNodeComboBox.cxx" line="575"/>
+        <source>node</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1436,27 +1433,24 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../qMRMLSliceControllerWidget.cxx" line="79"/>
+        <location filename="../../qMRMLSliceControllerWidget.cxx" line="1521"/>
+        <source>Oblique</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLSliceControllerWidget.cxx" line="403"/>
+        <source>Slice distance from RAS origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="2591"/>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>qMRMLSliceControllerWidget::qMRMLSliceControllerWidget</name>
-    <message>
-        <location filename="../../qMRMLSliceControllerWidget.cxx" line="79"/>
-        <location filename="../../qMRMLSliceControllerWidget.cxx" line="1521"/>
-        <source>Oblique</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>qMRMLSliceControllerWidgetPrivate</name>
-    <message>
-        <location filename="../../qMRMLSliceControllerWidget.cxx" line="403"/>
-        <source>Slice distance from RAS origin</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="454"/>
         <source>Linked</source>
@@ -1872,6 +1866,7 @@
     </message>
     <message>
         <location filename="../UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
+        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="182"/>
         <source>Orientation marker</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2144,11 +2139,6 @@
 <context>
     <name>qMRMLThreeDViewControllerWidgetPrivate</name>
     <message>
-        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="182"/>
-        <source>Orientation marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="203"/>
         <source>Ruler</source>
         <translation type="unfinished"></translation>
@@ -2402,7 +2392,7 @@
     </message>
 </context>
 <context>
-    <name>qMRMLVolumeWidgetPrivate</name>
+    <name>qMRMLVolumeWidget</name>
     <message>
         <location filename="../../qMRMLVolumeWidget.cxx" line="114"/>
         <source>Set the range boundaries to control large numbers or allow fine tuning</source>

@@ -140,6 +140,7 @@ Capacidades gráficas de esta computadora:
     </message>
     <message>
         <location filename="../UI/qSlicerMainWindow.ui" line="257"/>
+        <location filename="../../qSlicerMainWindow.cxx" line="392"/>
         <source>Layout</source>
         <translation>Diseño</translation>
     </message>
@@ -247,6 +248,7 @@ Capacidades gráficas de esta computadora:
     </message>
     <message>
         <location filename="../UI/qSlicerMainWindow.ui" line="454"/>
+        <location filename="../../qSlicerMainWindow.cxx" line="655"/>
         <source>Save</source>
         <translation>Grabar</translation>
     </message>
@@ -810,6 +812,18 @@ Capacidades gráficas de esta computadora:
         <translation>Ocultar/Expandir el panel GUI y permite a los visualizadores de Slicer ocupar toda la ventana de la aplicación</translation>
     </message>
     <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="338"/>
+        <location filename="../../qSlicerMainWindow.cxx" line="352"/>
+        <location filename="../../qSlicerMainWindow.cxx" line="366"/>
+        <source>Select number of viewers...</source>
+        <translation type="unfinished">Seleccione el número de espectadores....</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="481"/>
+        <source>Python Interactor</source>
+        <translation type="unfinished">Interprete de Python</translation>
+    </message>
+    <message>
         <location filename="../../qSlicerMainWindow.cxx" line="502"/>
         <source>&amp;Python Interactor</source>
         <translation>&amp;Interprete de Python</translation>
@@ -818,6 +832,56 @@ Capacidades gráficas de esta computadora:
         <location filename="../../qSlicerMainWindow.cxx" line="503"/>
         <source>Show Python Interactor window for controlling the application&apos;s data, user interface, and internals</source>
         <translation>Mostrar la ventana del interprete de Python para controlar los datos, la interfaz de usuario y las funciones internas de la aplicación</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="644"/>
+        <source>Some data have been modified. Do you want to save them before exit?</source>
+        <translation type="unfinished">Algunos datos han sido modificados. ¿Quieres guardarlos antes de salir?</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="648"/>
+        <source>The scene has been modified. Do you want to save it before exit?</source>
+        <translation type="unfinished">La escena ha sido modificada. ¿Desea guardarlo antes de salir?</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="653"/>
+        <source>Save before exit?</source>
+        <translation type="unfinished">¿Grabar antes de salir?</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="657"/>
+        <source>Exit (discard modifications)</source>
+        <translation type="unfinished">Salir (descartar modificaciones)</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="659"/>
+        <source>Cancel exit</source>
+        <translation type="unfinished">Cancelar salir</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="689"/>
+        <source>Some data have been modified. Do you want to save them before closing the scene?</source>
+        <translation type="unfinished">Algunos datos han sido modificados. ¿Quieres guardarlos antes de cerrar la escena?</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="693"/>
+        <source>The scene has been modified. Do you want to save it before closing the scene?</source>
+        <translation type="unfinished">La escena ha sido modificada. ¿Quieres guardarlo antes de cerrar la escena?</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="703"/>
+        <source>Save before closing scene?</source>
+        <translation type="unfinished">¿Guardar antes de cerrar la escena?</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="708"/>
+        <source>Close scene (discard modifications)</source>
+        <translation type="unfinished">Cerrar escena (descartar modificaciones)</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerMainWindow.cxx" line="709"/>
+        <source>Save scene</source>
+        <translation type="unfinished">Guardar la escena</translation>
     </message>
     <message>
         <location filename="../../qSlicerMainWindow.cxx" line="891"/>
@@ -838,76 +902,60 @@ Capacidades gráficas de esta computadora:
 <context>
     <name>qSlicerMainWindowPrivate</name>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="338"/>
-        <location filename="../../qSlicerMainWindow.cxx" line="352"/>
-        <location filename="../../qSlicerMainWindow.cxx" line="366"/>
         <source>Select number of viewers...</source>
-        <translation>Seleccione el número de espectadores....</translation>
+        <translation type="vanished">Seleccione el número de espectadores....</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="392"/>
         <source>Layout</source>
-        <translation>Diseño</translation>
+        <translation type="vanished">Diseño</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="481"/>
         <source>Python Interactor</source>
-        <translation>Interprete de Python</translation>
+        <translation type="vanished">Interprete de Python</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="644"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation>Algunos datos han sido modificados. ¿Quieres guardarlos antes de salir?</translation>
+        <translation type="vanished">Algunos datos han sido modificados. ¿Quieres guardarlos antes de salir?</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="648"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation>La escena ha sido modificada. ¿Desea guardarlo antes de salir?</translation>
+        <translation type="vanished">La escena ha sido modificada. ¿Desea guardarlo antes de salir?</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="653"/>
         <source>Save before exit?</source>
-        <translation>¿Grabar antes de salir?</translation>
+        <translation type="vanished">¿Grabar antes de salir?</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="655"/>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation type="vanished">Guardar</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="657"/>
         <source>Exit (discard modifications)</source>
-        <translation>Salir (descartar modificaciones)</translation>
+        <translation type="vanished">Salir (descartar modificaciones)</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="659"/>
         <source>Cancel exit</source>
-        <translation>Cancelar salir</translation>
+        <translation type="vanished">Cancelar salir</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="689"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation>Algunos datos han sido modificados. ¿Quieres guardarlos antes de cerrar la escena?</translation>
+        <translation type="vanished">Algunos datos han sido modificados. ¿Quieres guardarlos antes de cerrar la escena?</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="693"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation>La escena ha sido modificada. ¿Quieres guardarlo antes de cerrar la escena?</translation>
+        <translation type="vanished">La escena ha sido modificada. ¿Quieres guardarlo antes de cerrar la escena?</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="703"/>
         <source>Save before closing scene?</source>
-        <translation>¿Guardar antes de cerrar la escena?</translation>
+        <translation type="vanished">¿Guardar antes de cerrar la escena?</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="708"/>
         <source>Close scene (discard modifications)</source>
-        <translation>Cerrar escena (descartar modificaciones)</translation>
+        <translation type="vanished">Cerrar escena (descartar modificaciones)</translation>
     </message>
     <message>
-        <location filename="../../qSlicerMainWindow.cxx" line="709"/>
         <source>Save scene</source>
-        <translation>Guardar la escena</translation>
+        <translation type="vanished">Guardar la escena</translation>
     </message>
 </context>
 </TS>

@@ -245,7 +245,7 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     </message>
 </context>
 <context>
-    <name>qSlicerExtensionsRestoreWidgetPrivate</name>
+    <name>qSlicerExtensionsRestoreWidget</name>
     <message>
         <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="200"/>
         <source>Select All</source>
@@ -272,37 +272,37 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="295"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="292"/>
         <source>%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extension Manager &gt; Restore Extensions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="341"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="338"/>
         <source>currently installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="347"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="344"/>
         <source>was used in previously installed Slicer version (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="351"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="348"/>
         <source>was last used in Slicer version %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="356"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="353"/>
         <source>not compatible with current Slicer version (was last used in Slicer version %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="427"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="425"/>
         <source>All extensions restored. Please restart Slicer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="446"/>
+        <location filename="../../qSlicerExtensionsRestoreWidget.cxx" line="442"/>
         <source>Installing %1 (%2/%3)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -385,7 +385,7 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     </message>
 </context>
 <context>
-    <name>qSlicerModuleSelectorToolBarPrivate</name>
+    <name>qSlicerModuleSelectorToolBar</name>
     <message>
         <location filename="../../qSlicerModuleSelectorToolBar.cxx" line="89"/>
         <source>Modules:</source>
@@ -413,6 +413,11 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
         <translation>Historial</translation>
     </message>
     <message>
+        <location filename="../../qSlicerModuleSelectorToolBar.cxx" line="119"/>
+        <source>Modules Previous History</source>
+        <translation>Historial de los módulos anteriores</translation>
+    </message>
+    <message>
         <location filename="../../qSlicerModuleSelectorToolBar.cxx" line="122"/>
         <source>Previous</source>
         <translation>Anterior</translation>
@@ -421,6 +426,11 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
         <location filename="../../qSlicerModuleSelectorToolBar.cxx" line="123"/>
         <source>Previous modules</source>
         <translation>Módulos anteriores</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModuleSelectorToolBar.cxx" line="136"/>
+        <source>Modules Next History</source>
+        <translation>Historial de los módulos siguientes</translation>
     </message>
     <message>
         <location filename="../../qSlicerModuleSelectorToolBar.cxx" line="139"/>
@@ -434,7 +444,46 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     </message>
 </context>
 <context>
-    <name>qSlicerModulesMenuPrivate</name>
+    <name>qSlicerModuleSelectorToolBarPrivate</name>
+    <message>
+        <source>Modules:</source>
+        <translation type="vanished">Módulos:</translation>
+    </message>
+    <message>
+        <source>Select a module from the module list</source>
+        <translation type="vanished">Seleccione un módulo de la lista de módulos</translation>
+    </message>
+    <message>
+        <source>Modules</source>
+        <translation type="vanished">Módulos</translation>
+    </message>
+    <message>
+        <source>Modules history</source>
+        <translation type="vanished">Historial de módulos</translation>
+    </message>
+    <message>
+        <source>History</source>
+        <translation type="vanished">Historial</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation type="vanished">Anterior</translation>
+    </message>
+    <message>
+        <source>Previous modules</source>
+        <translation type="vanished">Módulos anteriores</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation type="vanished">Siguiente</translation>
+    </message>
+    <message>
+        <source>Next modules</source>
+        <translation type="vanished">Módulos siguientes</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerModulesMenu</name>
     <message>
         <location filename="../../qSlicerModulesMenu.cxx" line="84"/>
         <source>All Modules</source>
@@ -442,7 +491,14 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
     </message>
 </context>
 <context>
-    <name>qSlicerMouseModeToolBarPrivate</name>
+    <name>qSlicerModulesMenuPrivate</name>
+    <message>
+        <source>All Modules</source>
+        <translation type="vanished">Todos los módulos</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerMouseModeToolBar</name>
     <message>
         <location filename="../../qSlicerMouseModeToolBar.cxx" line="73"/>
         <source>Translate/rotate view, adjust displayed objects</source>
@@ -473,7 +529,7 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
         <location filename="../../qSlicerMouseModeToolBar.cxx" line="110"/>
         <location filename="../../qSlicerMouseModeToolBar.cxx" line="252"/>
         <source>Place</source>
-        <translation>Lugar</translation>
+        <translation>Colocar</translation>
     </message>
     <message>
         <location filename="../../qSlicerMouseModeToolBar.cxx" line="124"/>
@@ -489,6 +545,45 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
         <location filename="../../qSlicerMouseModeToolBar.cxx" line="256"/>
         <source>Place %1</source>
         <translation>Lugar %1</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerMouseModeToolBarPrivate</name>
+    <message>
+        <source>Translate/rotate view, adjust displayed objects</source>
+        <translation type="vanished">Vista de tranlación/rotación, ajustar los objetos visualizados</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="vanished">Vista</translation>
+    </message>
+    <message>
+        <source>Persistent</source>
+        <translation type="vanished">Persistente</translation>
+    </message>
+    <message>
+        <source>Switch between single place and persistent place modes.</source>
+        <translation type="vanished">Conmuta entre los modos de lugar simple y lugar persistente.</translation>
+    </message>
+    <message>
+        <source>Create and Place</source>
+        <translation type="vanished">Crear y colocar</translation>
+    </message>
+    <message>
+        <source>Place</source>
+        <translation type="vanished">Lugar</translation>
+    </message>
+    <message>
+        <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Control key for automatic window/level setting in a region.</source>
+        <translation type="vanished">Ajustar la ventana/ el nivel del volumen haciendo clic con el botón izquierdo del ratón y arrastrando en las vistas de corte. Mantenga pulsada la tecla Control para la configuración automática de la ventana/el nivel en una región.</translation>
+    </message>
+    <message>
+        <source>Window/level</source>
+        <translation type="vanished">Ventana/Nivel</translation>
+    </message>
+    <message>
+        <source>Place %1</source>
+        <translation type="vanished">Lugar %1</translation>
     </message>
 </context>
 <context>
@@ -1331,7 +1426,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../UI/qSlicerSettingsUserInformationPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">General</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
@@ -1346,7 +1441,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directorio donde se guardan las escenas por defecto</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
@@ -1366,7 +1461,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Script de Python que se ejecuta después de iniciar la aplicación</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>

@@ -37,7 +37,7 @@
         <location filename="../UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="93"/>
         <source>AutoRun</source>
-        <translation type="unfinished">Ejecución automática</translation>
+        <translation>Ejecución automática</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerCLIModuleWidget.ui" line="143"/>
@@ -62,22 +62,22 @@
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="96"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished">Ejecución automática con parámetro modificado</translation>
+        <translation>Ejecución automática con parámetro modificado</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation type="unfinished">Mientras el botón Ejecución Automática esté pulsado, el módulo se ejecutará cada vez que se cambie el valor de un parámetro.</translation>
+        <translation>Mientras el botón Ejecución Automática esté pulsado, el módulo se ejecutará cada vez que se cambie el valor de un parámetro.</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="105"/>
         <source>AutoRun on modified input</source>
-        <translation type="unfinished">Ejecución automática con entrada modificada</translation>
+        <translation>Ejecución automática con entrada modificada</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="107"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
-        <translation type="unfinished">Mientras el botón AutoRun esté pulsado, el módulo se ejecutará cada vez que se modifique un nodo de entrada.</translation>
+        <translation>Mientras el botón AutoRun esté pulsado, el módulo se ejecutará cada vez que se modifique un nodo de entrada.</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="114"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="116"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-        <translation type="unfinished">Mientras el botón AutoRun esté pulsado, el módulo se ejecutará en cualquier momento en que un nodo de entrada dispare un evento que no sea un evento modificado.</translation>
+        <translation>Mientras el botón AutoRun esté pulsado, el módulo se ejecutará en cualquier momento en que un nodo de entrada dispare un evento que no sea un evento modificado.</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="123"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../../qSlicerCLIModuleWidget.cxx" line="125"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-        <translation type="unfinished">Cuando está marcada, se aplica, el módulo cancela/para la instancia de ejecución existente si la hay, de lo contrario espera a que se complete para iniciar una nueva ejecución.</translation>
+        <translation>Cuando está marcada, se aplica, el módulo cancela/para la instancia de ejecución existente si la hay, de lo contrario espera a que se complete para iniciar una nueva ejecución.</translation>
     </message>
 </context>
 <context>
@@ -136,17 +136,17 @@
     <message>
         <location filename="../../qSlicerCLIProgressBar.cxx" line="124"/>
         <source>Show details</source>
-        <translation type="unfinished">Mostrar detalles</translation>
+        <translation>Mostrar detalles</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIProgressBar.cxx" line="148"/>
         <source>Status:</source>
-        <translation type="unfinished">Estado:</translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <location filename="../../qSlicerCLIProgressBar.cxx" line="149"/>
         <source>Idle</source>
-        <translation type="unfinished">Inactivo</translation>
+        <translation>Inactivo</translation>
     </message>
 </context>
 <context>

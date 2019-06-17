@@ -41,7 +41,7 @@
     <message>
         <location filename="../../qSlicerExtensionsManagerModel.cxx" line="758"/>
         <source>slicerRevision is not specified</source>
-        <translation type="unfinished">slicerRevision no es especificado</translation>
+        <translation>slicerRevision no es especificado</translation>
     </message>
     <message>
         <location filename="../../qSlicerExtensionsManagerModel.cxx" line="762"/>

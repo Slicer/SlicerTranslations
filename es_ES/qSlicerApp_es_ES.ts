@@ -50,22 +50,22 @@
         <translation>Abrir su navegador web favorito en http://www.slicer.org/slicerWiki/index.php/Slicer3:VisualBlog donde puede publicar capturas de pantalla interesante del uso del paquete de software Slicer3 en su investigación y compartirlas con la comunidad de Slicer.</translation>
     </message>
     <message>
-        <location filename="../../qSlicerAppMainWindow.cxx" line="101"/>
+        <location filename="../../qSlicerAppMainWindow.cxx" line="104"/>
         <source>Report a bug</source>
         <translation>Informar de un error</translation>
     </message>
     <message>
-        <location filename="../../qSlicerAppMainWindow.cxx" line="102"/>
+        <location filename="../../qSlicerAppMainWindow.cxx" line="105"/>
         <source>Report error or request enhancement or new feature.</source>
         <translation>Informar de un error o solicitar mejoras o una nueva característica.</translation>
     </message>
     <message>
-        <location filename="../../qSlicerAppMainWindow.cxx" line="106"/>
+        <location filename="../../qSlicerAppMainWindow.cxx" line="109"/>
         <source>About 3D Slicer</source>
         <translation>Sobre 3D Slicer</translation>
     </message>
     <message>
-        <location filename="../../qSlicerAppMainWindow.cxx" line="107"/>
+        <location filename="../../qSlicerAppMainWindow.cxx" line="110"/>
         <source>Provides a description of the Slicer effort and its support.</source>
         <translation>Proporcionar una descripción del esfuerzo de Slicer y su soporte.</translation>
     </message>

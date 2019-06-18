@@ -22,6 +22,56 @@
 <context>
     <name>qSlicerApplication</name>
     <message>
+        <location filename="../../qSlicerApplication.cxx" line="252"/>
+        <source>General</source>
+        <translation>General</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="255"/>
+        <source>Modules</source>
+        <translation>Módulos</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="259"/>
+        <source>Appearance</source>
+        <translation>Apariencia</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="263"/>
+        <source>Views</source>
+        <translation>Vistas</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="267"/>
+        <source>User</source>
+        <translation>Usuario</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="271"/>
+        <source>Extensions</source>
+        <translation>Extensiones</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="275"/>
+        <source>Cache</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="280"/>
+        <source>Internationalization</source>
+        <translation>Internacionalización</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="286"/>
+        <source>Python</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerApplication.cxx" line="291"/>
+        <source>Developer</source>
+        <translation>Desarrollador</translation>
+    </message>
+    <message>
         <location filename="../../qSlicerApplication.cxx" line="394"/>
         <source>%1 has caught an internal error.
 
@@ -485,7 +535,82 @@ Si tiene una secuencia repetible de pasos  que causa este mensaje, </translation
 <context>
     <name>qSlicerModulesMenu</name>
     <message>
-        <location filename="../../qSlicerModulesMenu.cxx" line="84"/>
+        <location filename="../../qSlicerModulesMenu.cxx" line="74"/>
+        <source>Wizards</source>
+        <translation>Asistentes</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="75"/>
+        <source>Informatics</source>
+        <translation>Informática</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="75"/>
+        <source>Registration</source>
+        <translation>Registrado</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="76"/>
+        <source>Segmentation</source>
+        <translation>Segmentación</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="76"/>
+        <source>Quantification</source>
+        <translation>Cuantificación</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="77"/>
+        <source>Diffusion</source>
+        <translation>Difusión</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="77"/>
+        <source>IGT</source>
+        <translation>TGI</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="78"/>
+        <source>Filtering</source>
+        <translation>Filtrado</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="78"/>
+        <source>Surface Models</source>
+        <translation>Modelos de superficie</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="79"/>
+        <source>Converters</source>
+        <translation>Convertidores</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="79"/>
+        <source>Endoscopy</source>
+        <translation>Endoscopia</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="80"/>
+        <source>Utilities</source>
+        <translation>Utilidades</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="80"/>
+        <source>Developer Tools</source>
+        <translation>Herramientas para desarrolladores</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="81"/>
+        <source>Legacy</source>
+        <translation>Legado</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="81"/>
+        <source>Testing</source>
+        <translation>Testear</translation>
+    </message>
+    <message>
+        <location filename="../../qSlicerModulesMenu.cxx" line="88"/>
         <source>All Modules</source>
         <translation>Todos los módulos</translation>
     </message>
@@ -969,7 +1094,7 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Internacionalización</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
@@ -1797,17 +1922,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../qSlicerWebPythonProxy.cxx" line="59"/>
         <source>Allow Python execution?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Permitir ejecución en Python?</translation>
     </message>
     <message>
         <location filename="../../qSlicerWebPythonProxy.cxx" line="62"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir</translation>
     </message>
     <message>
         <location filename="../../qSlicerWebPythonProxy.cxx" line="63"/>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazar</translation>
     </message>
 </context>
 </TS>

@@ -6,42 +6,42 @@
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de la pantalla</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizar una captura de pantalla de la maquetación completa, la vista 3D o las vistas de cortes. Usar Archivo, Guardar para guardar la imagen. Editar en el módulo Anotaciones.</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de la escena</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar y nombrar una vista de escena.</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="120"/>
         <source>Restore view</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar la vista</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="122"/>
         <source>Restore or delete saved scene views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar o eliminar vistas de escena guardadas.</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la vista de escena</translation>
     </message>
     <message>
         <location filename="../../qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la vista de escena:</translation>
     </message>
 </context>
 <context>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../../qMRMLColorModel.cxx" line="162"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
 </context>
 <context>
@@ -343,12 +343,12 @@
     <message>
         <location filename="../UI/qMRMLColorPickerWidget.ui" line="14"/>
         <source>Color Picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Selector de colores</translation>
     </message>
     <message>
         <location filename="../UI/qMRMLColorPickerWidget.ui" line="20"/>
         <source>Color node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodo de colores:</translation>
     </message>
 </context>
 <context>
@@ -419,7 +419,7 @@
     <message>
         <location filename="../UI/qMRMLEventLoggerWidget.ui" line="14"/>
         <source>MRML Event logger</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrador de eventos MRML</translation>
     </message>
 </context>
 <context>
@@ -597,7 +597,7 @@
     <message>
         <location filename="../../qMRMLNodeComboBox.cxx" line="58"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <location filename="../../qMRMLNodeComboBox.cxx" line="209"/>
@@ -860,7 +860,7 @@
     <message>
         <location filename="../../qMRMLRangeWidget.cxx" line="70"/>
         <source>Symmetric handles</source>
-        <translation type="unfinished"></translation>
+        <translation>Simetría manejada</translation>
     </message>
 </context>
 <context>
@@ -896,7 +896,7 @@
     <message>
         <location filename="../../qMRMLSceneHierarchyModel.cxx" line="396"/>
         <source>Checked: Force color to children</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobado: Forzar el color a los niños</translation>
     </message>
 </context>
 <context>
@@ -904,7 +904,7 @@
     <message>
         <location filename="../../qMRMLSceneViewMenu.cxx" line="257"/>
         <source>No scene views</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin vistas de escena</translation>
     </message>
 </context>
 <context>
@@ -1405,32 +1405,32 @@
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="76"/>
         <source>S: </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="76"/>
         <source>I &lt;-----&gt; S</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="77"/>
         <source>R: </source>
-        <translation type="unfinished"></translation>
+        <translation>D: </translation>
     </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="77"/>
         <source>L &lt;-----&gt; R</source>
-        <translation type="unfinished"></translation>
+        <translation>I &lt;-----&gt; D</translation>
     </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="78"/>
         <source>A: </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="78"/>
         <source>P &lt;-----&gt; A</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../qMRMLSliceControllerWidget.cxx" line="79"/>
@@ -1731,12 +1731,12 @@
         <location filename="../../qMRMLTableView.cxx" line="493"/>
         <location filename="../../qMRMLTableView.cxx" line="509"/>
         <source>Failed to create Plot</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear la gráfica</translation>
     </message>
     <message>
         <location filename="../../qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al dibujar los datos</translation>
     </message>
 </context>
 <context>
@@ -2131,16 +2131,28 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="261"/>
-        <source>1</source>
+        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="132"/>
+        <source>Stereo Modes</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>qMRMLThreeDViewControllerWidgetPrivate</name>
+    <message>
+        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="142"/>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="203"/>
         <source>Ruler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="209"/>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../qMRMLThreeDViewControllerWidget.cxx" line="261"/>
+        <source>1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2396,7 +2408,7 @@
     <message>
         <location filename="../../qMRMLVolumeWidget.cxx" line="114"/>
         <source>Set the range boundaries to control large numbers or allow fine tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca los límites del rango para controlar números grandes o permitir el ajuste fino</translation>
     </message>
 </context>
 <context>

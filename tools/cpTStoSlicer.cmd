@@ -32,7 +32,7 @@ SET copyfile=%tsfolder%\qSlicerBaseQTCLI_%language%%ts%
 copy %copyfile% %destination%
 
 :: copy QTCore
-SET destination=%slicerfolder%\Base\QTCore\Resources\Translations\qSlicerBaseQTCore_
+SET destination=%slicerfolder%\Base\QTCore\Resources\Translations\
 SET copyfile=%tsfolder%\qSlicerBaseQTCore_%language%%ts%
 
 copy %copyfile% %destination%
@@ -50,7 +50,7 @@ SET copyfile=%tsfolder%\qSlicerModulesCore_%language%%ts%
 copy %copyfile% %destination%
 
 :: copy QTGUI
-SET destination=%slicerfolder%\Libs\MRML\Widgets\Resources\Translations\qMRMLWidgets_
+SET destination=%slicerfolder%\Libs\MRML\Widgets\Resources\Translations\
 SET copyfile=%tsfolder%\qMRMLWidgets_%language%%ts%
 
 copy %copyfile% %destination%

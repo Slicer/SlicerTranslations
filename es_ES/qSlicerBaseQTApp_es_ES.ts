@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es_ES">
+<TS version="2.0" language="es_ES">
 <context>
     <name>qSlicerAboutDialog</name>
     <message>
@@ -569,12 +569,12 @@ Capacidades gráficas de esta computadora:
     <message>
         <location filename="../UI/qSlicerMainWindow.ui" line="816"/>
         <source>Red slice only</source>
-        <translation>Solo corte roja</translation>
+        <translation>Solo corte rojo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerMainWindow.ui" line="828"/>
         <source>Yellow slice only</source>
-        <translation>Solo corte amarilla</translation>
+        <translation>Solo corte amarillo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerMainWindow.ui" line="840"/>
@@ -903,59 +903,59 @@ Capacidades gráficas de esta computadora:
     <name>qSlicerMainWindowPrivate</name>
     <message>
         <source>Select number of viewers...</source>
-        <translation type="vanished">Seleccione el número de espectadores....</translation>
+        <translation>Seleccione el número de espectadores....</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="vanished">Diseño</translation>
+        <translation>Diseño</translation>
     </message>
     <message>
         <source>Python Interactor</source>
-        <translation type="vanished">Interprete de Python</translation>
+        <translation>Interprete de Python</translation>
     </message>
     <message>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="vanished">Algunos datos han sido modificados. ¿Quieres guardarlos antes de salir?</translation>
+        <translation>Algunos datos han sido modificados. ¿Quieres guardarlos antes de salir?</translation>
     </message>
     <message>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation type="vanished">La escena ha sido modificada. ¿Desea guardarlo antes de salir?</translation>
+        <translation>La escena ha sido modificada. ¿Desea guardarlo antes de salir?</translation>
     </message>
     <message>
         <source>Save before exit?</source>
-        <translation type="vanished">¿Grabar antes de salir?</translation>
+        <translation>¿Grabar antes de salir?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="vanished">Guardar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Exit (discard modifications)</source>
-        <translation type="vanished">Salir (descartar modificaciones)</translation>
+        <translation>Salir (descartar modificaciones)</translation>
     </message>
     <message>
         <source>Cancel exit</source>
-        <translation type="vanished">Cancelar salir</translation>
+        <translation>Cancelar salir</translation>
     </message>
     <message>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="vanished">Algunos datos han sido modificados. ¿Quieres guardarlos antes de cerrar la escena?</translation>
+        <translation>Algunos datos han sido modificados. ¿Quieres guardarlos antes de cerrar la escena?</translation>
     </message>
     <message>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="vanished">La escena ha sido modificada. ¿Quieres guardarlo antes de cerrar la escena?</translation>
+        <translation>La escena ha sido modificada. ¿Quieres guardarlo antes de cerrar la escena?</translation>
     </message>
     <message>
         <source>Save before closing scene?</source>
-        <translation type="vanished">¿Guardar antes de cerrar la escena?</translation>
+        <translation>¿Guardar antes de cerrar la escena?</translation>
     </message>
     <message>
         <source>Close scene (discard modifications)</source>
-        <translation type="vanished">Cerrar escena (descartar modificaciones)</translation>
+        <translation>Cerrar escena (descartar modificaciones)</translation>
     </message>
     <message>
         <source>Save scene</source>
-        <translation type="vanished">Guardar la escena</translation>
+        <translation>Guardar la escena</translation>
     </message>
 </context>
 </TS>

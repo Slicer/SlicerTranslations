@@ -1094,12 +1094,12 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internacionalización</translation>
+        <translation>Internacionalización</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar la internacionalización:</translation>
     </message>
 </context>
 <context>
@@ -1107,7 +1107,7 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="32"/>
@@ -1195,18 +1195,18 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="326"/>
         <source>Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutas</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="332"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="339"/>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="811"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="381"/>
@@ -1221,47 +1221,47 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="446"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="455"/>
         <source>Hide modules to load at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar los módulos a cargar en el inicio</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="458"/>
         <source>To load</source>
-        <translation type="unfinished"></translation>
+        <translation>Para cargar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="477"/>
         <source>Hide modules to ignore at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar los módulos a ignorar en el inicio</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="480"/>
         <source>To ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Para ignorar</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="499"/>
         <source>Hide loaded modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar los módulos cargados</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="502"/>
         <source>Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargado</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="552"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar los módulos ignorados</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="555"/>
         <source>Ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorado</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="605"/>
@@ -1271,7 +1271,7 @@ Do you want to ignore this error and close saving?</source>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="608"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fracasado</translation>
     </message>
     <message>
         <location filename="../UI/qSlicerSettingsModulesPanel.ui" line="675"/>
